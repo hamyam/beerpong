@@ -1,0 +1,3 @@
+<?php 
+	// LOGIN FUER ADMIN BEREICH
+?>
